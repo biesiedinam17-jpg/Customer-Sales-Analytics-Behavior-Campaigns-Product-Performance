@@ -1,0 +1,25 @@
+# EdTech School Analytics Project
+
+## Overview
+This project analyzes customer behavior, sales performance, payment methods, training programs, and manager effectiveness for an IT education company.
+
+## Tools & Technologies
+- Python (Pandas, NumPy, Seaborn)
+- Google Colab
+- Power BI
+- Google Slides
+
+## Project Files
+- Contacts_cleaning — data cleaning and preprocessing
+- Calls_Spend_cleaning — data cleaning and preprocessing
+- Deals_cleaning — data cleaning and preprocessing
+- Analysis — exploratory data analysis and business insights
+- Project_presentation — final presentation including Power BI visualizations
+
+## Key Topics
+- Customer behavior analysis
+- Sales funnel analysis
+- Manager performance evaluation
+- Payment type analysis
+- Training program popularity
+- Conversion rate analysis
